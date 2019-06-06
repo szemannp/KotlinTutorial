@@ -1,1 +1,1 @@
-Learning Kotlin through a Udemy course, including OOP principle practices.
+Learning Kotlin through an Udemy course, including OOP principle practices.
