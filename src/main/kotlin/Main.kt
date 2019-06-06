@@ -7,12 +7,14 @@ fun main() {
     enemy.takeDamage(11)
     println(enemy)
 
-    val uglyTroll = Troll("Ugly Troll", 27, 1)
+    val uglyTroll = Troll("Ugly Troll")
 
     println(uglyTroll)
 
     uglyTroll.takeDamage(8)
     println(uglyTroll)
 
+    uglyTroll.takeDamage(30)
+    println(uglyTroll)
 
 }
